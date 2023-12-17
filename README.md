@@ -11,7 +11,7 @@ A software engineer with a focus on system architecture and software optimizatio
 
 - 🔭 I’m currently working as a Software Engineer @ [Neon](https://www.neoneg.com/)
 - 👯 I’m looking to collaborate on open source projects that makes automation a little easy.
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NRQTzUyKJmhbuAg_sD8zX2pH1ui24ueN/view?usp=sharing](https://drive.google.com/file/d/1NRQTzUyKJmhbuAg_sD8zX2pH1ui24ueN/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1NRQTzUyKJmhbuAg_sD8zX2pH1ui24ueN/view?usp=sharing)
 - 📫 How to reach me: mazenshebeta@gmail.com
 
 
