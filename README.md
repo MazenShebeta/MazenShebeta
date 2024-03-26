@@ -4,8 +4,8 @@
 
 A software engineer with a focus on system architecture and software optimization. I am ready to contribute in collaborative environments and am keen to learn more in a dynamic organization committed to excellence.
 * Backend: NodeJS, Flask
-* Databases: MongoDB, Mysql
-* Frontend: Reactjs
+* Databases: MongoDB, PostgreSQL
+* Frontend: React, SolidJS
 
 ## Some facts: 
 
