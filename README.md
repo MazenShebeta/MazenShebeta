@@ -9,7 +9,7 @@ A software engineer with a focus on system architecture and software optimizatio
 
 ## Some facts: 
 
-- 🔭 I’m currently working as a Software Engineer @ [Neon](https://www.neoneg.com/)
+- 🔭 I’m currently working as a Software Engineer @ [Orthoplex Solutions](https://orthoplexsolutions.com/)
 - 👯 I’m looking to collaborate on open-source projects that simplify automation.
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1NRQTzUyKJmhbuAg_sD8zX2pH1ui24ueN/view?usp=sharing)
 - 📫 How to reach me: mazenshebeta@gmail.com
