@@ -1,4 +1,4 @@
-h1 align="center">Hi, I'm Mazen Shebeta 👋</h1>
+<h1 align="center">Hi, I'm Mazen Shebeta 👋</h1>
 <h3 align="center">Senior Full Stack Engineer — Backend-deep, React on the front, Postgres underneath</h3>
 
 <p align="center">
