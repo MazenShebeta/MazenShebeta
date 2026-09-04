@@ -39,10 +39,3 @@ h1 align="center">Hi, I'm Mazen Shebeta 👋</h1>
 - **[YouTube Shorts Timebar](https://github.com/MazenShebeta/Youtube-Shorts-Timebar)** — a lightweight tool that adds a visible progress bar to YouTube Shorts, so you always know where you are in a Short.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazenshebeta&show_icons=true&locale=en&layout=compact" alt="mazenshebeta's top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazenshebeta" alt="mazenshebeta's streak stats" />
-</p>
