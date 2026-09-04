@@ -1,33 +1,48 @@
+h1 align="center">Hi, I'm Mazen Shebeta 👋</h1>
+<h3 align="center">Senior Full Stack Engineer — Backend-deep, React on the front, Postgres underneath</h3>
 
-###  Hello There , I am [Mazen Shebeta](https://mazenshebeta.onrender.com/)
+<p align="center">
+  I build production web apps end to end — from relational data models and APIs to
+  React/TypeScript interfaces — with a focus on concurrency, performance, and systems
+  that stay reliable at scale.
+</p>
 
+<p align="center">
+  <a href="https://mazenshebeta.onrender.com"><img src="https://img.shields.io/badge/Portfolio-mazenshebeta.onrender.com-blue?style=flat-square" /></a>
+  <a href="https://linkedin.com/in/mazen-shebeta"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mazenshebeta@gmail.com"><img src="https://img.shields.io/badge/Email-mazenshebeta%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-A software engineer with a focus on system architecture and software optimization. I am ready to contribute in collaborative environments and am keen to learn more in a dynamic organization committed to excellence.
-* Backend: NodeJS, Flask
-* Databases: MongoDB, PostgreSQL
-* Frontend: React, SolidJS
+---
 
-## Some facts: 
+### 🔭 Currently
 
-- 🔭 I’m currently working as a Software Engineer @ [Orthoplex Solutions](https://orthoplexsolutions.com/)
-- 👯 I’m looking to collaborate on open-source projects that simplify automation.
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1NRQTzUyKJmhbuAg_sD8zX2pH1ui24ueN/view?usp=sharing)
-- 📫 How to reach me: mazenshebeta@gmail.com
+- Working as a **Software Engineer II @ [TJM Labs](https://www.tjmlabs.com/)**, building large-scale automation systems — 30+ concurrent bots against shared queues, with an emphasis on concurrency control, atomicity, and observability.
+- Previously at **[Orthoplex Solutions](https://orthoplexsolutions.com/)**, building NestJS/Node.js APIs, tuning PostgreSQL at scale, and shipping a full-stack Grafana/Prometheus/Loki monitoring dashboard.
 
+### 🧰 Stack
 
-## Open-source projects:
+**Frontend:** React · TypeScript · SolidJS · Redux · Modern CSS
+**Backend:** Node.js · NestJS · Express · Python · Flask · Django
+**Databases:** PostgreSQL (schema design, indexing, query tuning) · MongoDB · SQL
+**DevOps/Monitoring:** AWS · GitHub Actions (CI/CD) · Grafana · Prometheus · Loki · Nginx · Docker
 
-- 📺 [Youtube Shorts Timebar](https://github.com/MazenShebeta/Youtube-Shorts-Timebar)
-is an open-source tool crafted to simplify your Shorts experience. Navigate through Shorts' progress effortlessly with just a click of a button. 
+### 🤝 Let's collaborate
 
+- 👯 Open to collaborating on **open-source automation tooling** and data-dense frontend work (dashboards, reporting UIs).
+- 🧠 AI-assisted development is core to how I build — happy to compare notes on tooling/workflow.
+- 📄 Full experience: [résumé](https://mazenshebeta.onrender.com) · [detailed CV](https://drive.google.com/file/d/1NRQTzUyKJmhbuAg_sD8zX2pH1ui24ueN/view?usp=sharing)
+- 📫 Reach me at **mazenshebeta@gmail.com**
 
-### You can also find me on
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/mazen-shebeta) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mazenshebeta.onrender.com)  
+### 📺 Open-source
 
+- **[YouTube Shorts Timebar](https://github.com/MazenShebeta/Youtube-Shorts-Timebar)** — a lightweight tool that adds a visible progress bar to YouTube Shorts, so you always know where you are in a Short.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazenshebeta&show_icons=true&locale=en&layout=compact" alt="mazenshebeta" /></p>
+---
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazenshebeta&show_icons=true&locale=en" alt="mazenshebeta" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenshebeta&" alt="mazenshebeta" /></p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazenshebeta&show_icons=true&locale=en&layout=compact" alt="mazenshebeta's top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazenshebeta" alt="mazenshebeta's streak stats" />
+</p>
